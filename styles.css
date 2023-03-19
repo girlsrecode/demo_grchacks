@@ -1,0 +1,37 @@
+
+
+.intro{
+    background-color: #F7F1E5;
+    padding-top:90px;
+}
+
+h1{
+    font-family: 'Rubik Iso', cursive;
+}
+
+
+h6{
+    font-family: 'Merriweather', serif;
+    padding: 50px;
+}
+
+p{
+    padding: 100px;
+}
+
+.main{
+    font-size: 50px;
+    color: #E5D1FA;
+}
+
+.second{
+    font-size: 30px;
+    
+}
+
+.dog {
+
+    height: 500px;
+    width: 500px;
+
+}
